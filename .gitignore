@@ -1,0 +1,32 @@
+# ==========================================
+# GITIGNORE PARA PROYECTOS JAVA EN VS CODE
+# ==========================================
+
+# Archivos compilados y binarios de Java (Evita subir archivos .class)
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+/bin/
+/out/
+/build/
+
+# Archivos de configuración local de Visual Studio Code
+.vscode/
+
+# Configuraciones de otros IDEs (por si tus compañeros usan NetBeans o IntelliJ)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.nbproject/
+build/
+nbproject/private/
+dist/
+
+# Archivos temporales del Sistema Operativo
+Thumbs.db
+.DS_Store
