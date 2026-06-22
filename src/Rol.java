@@ -1,4 +1,4 @@
 public enum Rol{
     A,
-    O
+    O;
 }
