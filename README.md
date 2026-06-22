@@ -1,4 +1,4 @@
-# POO4_1P_APE1_APE2_APE3
+# POO4_1P_CHAVEZ_LUNA_MARTINEZ
 Proyecto 1P: Avance 2
 # ⚽ Sistema de Venta y Gestión de Entradas - Mundial 2026
 
